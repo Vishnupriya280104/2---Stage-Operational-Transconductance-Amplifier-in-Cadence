@@ -132,7 +132,7 @@ Phase Margin is extracted from the Bode plot at the unity-gain point.
 
 ## About
 
-**Author:** Vishnupriya V 
+**Author:** Vishnupriya V    
 **Contact:** priya.venkatesh.2804@gmail.com  
 **Date:** August 2025
 
