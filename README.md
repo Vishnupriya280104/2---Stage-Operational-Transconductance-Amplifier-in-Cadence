@@ -24,7 +24,7 @@ This repository documents the end-to-end design, simulation, and analysis of a *
 | VDD                | 3.0 V                 |
 | Load Capacitance   | 2 pF                  |
 | I_bias             | 20u A                 |
-| Output Swing       | 0.5 – (VDD–0.5) V     |
+
 
 ---
 
