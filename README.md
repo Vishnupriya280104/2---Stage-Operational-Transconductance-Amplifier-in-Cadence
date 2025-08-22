@@ -12,7 +12,6 @@ This repository documents the end-to-end design, simulation, and analysis of a *
 - [Simulation Strategy](#simulation-strategy)
 - [Results](#results)
 - [Key Equations](#key-equations)
-- [How to Run](#how-to-run)
 - [About](#about)
 
 ---
@@ -114,18 +113,7 @@ $$
 Phase Margin is extracted from the Bode plot at the unity-gain point.
 
 ---
-## How to Run
 
-1. **Clone this repo and open in Cadence Virtuoso.**
-2. **Load the schematic and simulation decks.**
-3. **Run (in order):**
-    - DC Sweep (input range: 1–1.5V)
-    - AC Analysis (set input AC mag = 1V)
-    - AC Phase/Gain
-    - Transient (square wave or step, 10–50 mV amplitude)
-4. **Match results with included plots to verify setup.**
-
----
 
 ## About
 
