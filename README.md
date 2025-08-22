@@ -21,13 +21,10 @@ This repository documents the end-to-end design, simulation, and analysis of a *
 
 | Parameter          | Value                 |
 |--------------------|-----------------------|
-| Process            | gpdk90nm              |
+| Technology         | gpdk90nm              |
 | VDD                | 3.0 V                 |
-| DC Gain            | >60 dB                |
-| Phase Margin       | >60°                  |
-| Unity Gain BW      | >1 MHz                |
 | Load Capacitance   | 2 pF                  |
-| Slew Rate          | >5 V/μs               |
+| I_bias             | 20u A                 |
 | Output Swing       | 0.5 – (VDD–0.5) V     |
 
 ---
