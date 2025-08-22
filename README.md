@@ -102,13 +102,21 @@ Pulse test: output response to square wave input, reveals amplifier’s dynamic 
 
 ## Key Equations
 
-- **DC Gain:** \( A_v = g_{m1} \cdot r_{o,stage1} \cdot g_{m2} \cdot r_{o,stage2} \)
-- **GBW:** \( GBW = \frac{g_{m1}}{2 \pi C_c} \)
-- **Slew Rate:** \( SR = \frac{I_{tail}}{C_c} \)
-- **Phase Margin:** Extracted from Bode plot at the unity-gain point.
+$$
+A_v = g_{m1} \cdot r_{o,stage1} \cdot g_{m2} \cdot r_{o,stage2}
+$$
+
+$$
+GBW = \frac{g_{m1}}{2 \pi C_c}
+$$
+
+$$
+SR = \frac{I_{tail}}{C_c}
+$$
+
+Phase Margin is extracted from the Bode plot at the unity-gain point.
 
 ---
-
 ## How to Run
 
 1. **Clone this repo and open in Cadence Virtuoso.**
